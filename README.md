@@ -28,16 +28,28 @@ The study focuses on:
 ## 📂 Repository Structure  
 
 📁 CIT-U-Energy-Efficiency-Study/
+
 ├── 📁 Electrical_Layouts/ # AutoCAD & PDF files of electrical diagrams
-│ ├── SAL_Building/
-│ ├── LRAC_Building/
-│ └── T-Room_Building/
+
+     ├── SAL_Building/
+
+     ├── LRAC_Building/
+
+     └── T-Room_Building/
+
 ├── 📁 Simulation_Data/ # Load flow, stability, and consumption data
-│ ├── ETAP_Models/
-│ └── Results/
+
+    ├── ETAP_Models/
+
+    └── Results/
+
 ├── 📁 Reports/ # Technical reports and presentations
+
 ├── 📁 Documentation/ # Guidelines, standards, and references
-└── 📁 Scripts/ # Python/MATLAB scripts for data analysis
+
+
+
+
 
 📈 Key Findings & Solutions
 Power Instability: Identified overloaded circuits in SAL Building during peak hours.
@@ -51,6 +63,10 @@ Redesign circuits to balance loads.
 Integrate solar panels and smart meters.
 
 Replace inefficient fixtures with LED lighting.
+
+
+
+
 
 🤝 Contributing
 Contributions are welcome! Please follow these steps:
