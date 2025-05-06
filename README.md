@@ -5,9 +5,9 @@
 
 ## 📖 Project Description  
 This repository contains electrical layouts, simulation data, and documentation for a study aimed at improving energy efficiency in three key buildings at CIT-U:  
-- **SAL Building** (Science and Laboratory Building)  
-- **LRAC Building** (Lecture Rooms and Classrooms)  
-- **T-Room Building** (Technical and Workshop Rooms)  
+- **SAL Building** 
+- **LRAC Building**   
+- **T-Room Building**
 
 The study focuses on:  
 1. Identifying inefficiencies and power instability in existing electrical systems.  
